@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: spring-react-starter
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: local
+
+# Add your own logging levels for your packages.
+logging:
+  level:
+    org.springframework.boot: info
