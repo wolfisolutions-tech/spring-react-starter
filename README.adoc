@@ -1,0 +1,8 @@
+= Spring React Starter
+
+This is a starter project for getting up and running with Spring Boot and React + TS.
+There are many default configurations that should be changed and depending on the branch pulled as a baseline there are different features.
+This repository also serves as the content for the YouTube tutorial over creating a Spring Boot & React + TS gradle project.
+
+== Key Branch Information
+- (trunk) - is the main branch for the base outline of the project. It does not include any resource filter configuration or security configuration.
